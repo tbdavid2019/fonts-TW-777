@@ -15,7 +15,8 @@
 這裡的字體沒有 SIL Open Font License 1.1  無法商用
 
 ## 777 黑體 效果
-<img width="723" alt="image" src="https://github.com/tbdavid2019/fonts-TW-777/assets/56015064/d3f7fee4-a547-429a-8f03-c4e1cf65a4eb">
+<img width="723" alt="image" src="https://github.com/tbdavid2019/fonts-TW-777/assets/56015064/e58820b1-f41e-4c4b-b430-956707fd0bd9">
+
 
 ## 777 禪體（等寬手寫）效果
 <img width="756" alt="image" src="https://github.com/tbdavid2019/fonts-TW-777/assets/56015064/28dfa8d3-8598-4c23-a688-980b89318adf">
